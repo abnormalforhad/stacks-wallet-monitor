@@ -9,10 +9,10 @@ plan:
     - id: 0
       transactions:
         - contract-publish:
-            contract-name: my-contract
-            expected-sender: ST207HKV7H8N1S9P839R5ZXVCGBF5QW6MN4SEHKKM
+            contract-name: wallet-monitor
+            expected-sender: ST2XV9R7FNJE9ZZYKSR70453N1YT4QDT67AE6Z2PE
             cost: 12320
-            path: contracts/my-contract.clar
+            path: contracts/wallet-monitor.clar
             anchor-block-only: true
             clarity-version: 3
       epoch: "3.3"
