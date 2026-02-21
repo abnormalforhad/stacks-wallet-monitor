@@ -1,5 +1,5 @@
 [project]
-name = 'stacks-wallet-monitor-1'
+name = 'wallet-monitor'
 description = ''
 authors = []
 telemetry = true
